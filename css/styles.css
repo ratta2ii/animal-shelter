@@ -1,0 +1,46 @@
+body {
+  background-color: cornflowerblue;
+  font-size: 1.4em;
+}
+
+.weenie-box {
+  background-color:lightblue;
+  padding: 50px;
+  width: 30%;
+  margin: 100px 0 100px 25%;
+}
+
+.cat-box {
+  background-color: seagreen;
+  padding: 50px;
+  width: 35%;
+  margin-left: 15%;
+}
+
+.handicap {
+  background-color: lightblue;
+  padding: 50px;
+  width: 600px;
+  margin: 100px auto 0px auto;
+}
+
+.poofy {
+  background-color: seagreen;
+  padding: 50px;
+  width: 600px;
+  margin: 15%;
+}
+
+.kitten {
+  background-color: lightblue;
+  padding: 50px;
+  width: 600px;
+  margin: 0px auto;
+}
+
+
+
+
+img {
+  width: 100%;
+}
